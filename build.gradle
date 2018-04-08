@@ -2,6 +2,9 @@
 /*
  Multi line comments
 */
+description="""
+  Some long description
+"""
 
 task hello {
   doLast {
